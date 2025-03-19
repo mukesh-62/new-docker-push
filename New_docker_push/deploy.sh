@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set Docker image name, tag, and container name
-IMAGE_NAME="nadinc/docker"
+IMAGE_NAME="mukesh-62/new-docker-push"
 TAG="latest"
 CONTAINER_NAME="jenkins-docker-container"
 
