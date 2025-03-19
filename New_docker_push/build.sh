@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-IMAGE_NAME="nadinc/docker"
+IMAGE_NAME="mukesh-62/new-docker-push"
 TAG="latest"
 
 # Build Docker image
