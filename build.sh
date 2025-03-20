@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-IMAGE_NAME="mukesh-62/new-docker-push"
+IMAGE_NAME="mukesh7soundararajan/task2"
 TAG="latest"
 
 # Build Docker image
