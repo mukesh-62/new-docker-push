@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set Docker image name, tag, and container name
-IMAGE_NAME="mukesh-62/new-docker-push"
+IMAGE_NAME="mukesh7soundararajan/task2"
 TAG="latest"
 CONTAINER_NAME="jenkins-docker-container"
 
